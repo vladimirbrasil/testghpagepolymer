@@ -29,7 +29,7 @@
 
 
 /* eslint-disable quotes, comma-spacing */
-var PrecacheConfig = [["/bower_components/polymer/polymer-micro.html","c8afdb92849d162268e7cc58eff5cd57"],["/bower_components/polymer/polymer-mini.html","33af9817ee3946c225d038f5a04d276a"],["/bower_components/polymer/polymer.html","186cfd0bba3b39fd262e69dc7bcc699a"],["/bower_components/webcomponentsjs/webcomponents-lite.js","ea1b320f1cc7094f02a4b410c0763a6f"],["/index.html","297ac36478cd920fe43d5c40d7a0d554"],["/src/testghpagepolymer-app/testghpagepolymer-app.html","a120f8cdbd64ca65208a715249ea3a56"]];
+var PrecacheConfig = [["/index.html","48365d56fe99d3f0f162787f6aeb9301"]];
 /* eslint-enable quotes, comma-spacing */
 var CacheNamePrefix = 'sw-precache-v1--' + (self.registration ? self.registration.scope : '') + '-';
 
